@@ -1,1 +1,1 @@
-window.alert(XSS)
+window.alert(XSS);
